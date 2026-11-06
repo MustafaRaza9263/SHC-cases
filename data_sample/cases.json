@@ -1,0 +1,715 @@
+[
+  {
+    "circuit": "khi",
+    "circuit_name": "Karachi",
+    "case_id": 372276,
+    "status": "Pending",
+    "remarks": "",
+    "case_no_raw": "Misc Appeal (S) 2/2023 Karachi (DAMAGES FOR DEFAMATION)",
+    "case_type": "Misc Appeal",
+    "bench_flag": "S",
+    "case_number": "2",
+    "case_year": "2023",
+    "court_location": "Karachi",
+    "nature_of_case": "DAMAGES FOR DEFAMATION",
+    "case_title": "Mst. Samani Thr. Attorney Abdul Wahid VS Muhammad Hashim and Another",
+    "party_side_a": "Mst. Samani Thr. Attorney Abdul Wahid",
+    "party_side_b": "Muhammad Hashim and Another",
+    "institution_date": "11-JAN-23",
+    "admit_date": "",
+    "disposal_date": "",
+    "consigned_date": "",
+    "stay_grant_date": "",
+    "stay_end_date": "",
+    "last_hearing_date": "Tuesday, April 21, 2026",
+    "last_hearing_list": "Daily List",
+    "last_hearing_sr": "16",
+    "last_hearing_stage": "For Hearing Of Cases(Priority)",
+    "last_hearing_bench": "Justice Ms. Sana Akram Minhas",
+    "last_hearing_other_info": "& Ord/Hg of Misc applications and main case Adjourned/Date in Office Adjourned/Date in Office",
+    "last_hearing_raw": "Date: Tuesday, April 21, 2026 List: Daily List @ Sr # 16 Stage: For Hearing Of Cases(Priority) Bench: Justice Ms. Sana Akram Minhas Other Info: & Ord/Hg of Misc applications and main case Adjourned/Date in Office Adjourned/Date in Office",
+    "next_hearing_date": "",
+    "next_hearing_list": "",
+    "next_hearing_sr": "",
+    "next_hearing_stage": "",
+    "next_hearing_bench": "",
+    "next_hearing_other_info": "",
+    "next_hearing_raw": "Date: (not set) List: @ Sr # Stage: Bench: Other Info:",
+    "last_roster_discharged_date": "Tuesday, August 25, 2026",
+    "last_roster_discharge_reason": "Due to advocate adjournment",
+    "future_fixation": "Tuesday, November 24, 2026 (Roster Fixation)",
+    "last_hg_adlreg": "",
+    "next_hg_adlreg": "",
+    "fir_no": "",
+    "fir_year": "",
+    "fir_sections": "Suit for DefamationCivil Procedure Code (CPC),",
+    "disposal_sine_die": "",
+    "disposing_bench": "",
+    "nature_of_disposal": "",
+    "scraped_at": "2026-11-05T10:04:00.696917+00:00",
+    "hearings": [
+      {
+        "hearing_date": "21-APR-26",
+        "list": "Daily List",
+        "sr_no": "16",
+        "cma": "& Ord/Hg of Misc applications and main case",
+        "other_info": "",
+        "part_heard": "",
+        "stage": "For Hearing Of Cases(Priority)",
+        "bench": "Justice Ms. Sana Akram Minhas",
+        "status": "Adjourned/Date in Office",
+        "diary": "Adjourned/Date in Office"
+      },
+      {
+        "hearing_date": "18-AUG-25",
+        "list": "Daily List",
+        "sr_no": "15",
+        "cma": "& Ord/Hg of Misc applications and main case",
+        "other_info": "",
+        "part_heard": "",
+        "stage": "For Hearing Of Cases(Priority)",
+        "bench": "Mr. Justice Arshad Hussain Khan",
+        "status": "Next Waiting",
+        "diary": ""
+      },
+      {
+        "hearing_date": "19-MAY-25",
+        "list": "Daily List",
+        "sr_no": "21",
+        "cma": "& Ord/Hg of Misc:application and main case",
+        "other_info": "",
+        "part_heard": "",
+        "stage": "For Hearing Of Cases(Priority)",
+        "bench": "Mr. Justice Muhammad Jaffer Raza",
+        "status": "Adjourned/Date by Court",
+        "diary": "Adjourned/Date by Court 18-Aug-2025"
+      },
+      {
+        "hearing_date": "17-APR-25",
+        "list": "Daily List",
+        "sr_no": "12",
+        "cma": "& Ord/Hg of Misc applications and main case",
+        "other_info": "",
+        "part_heard": "",
+        "stage": "For Hearing Of Cases(Priority)",
+        "bench": "Mr. Justice Muhammad Jaffer Raza",
+        "status": "Adjourned/Date by Court",
+        "diary": "Adjourned/Date by Court on 19.5.2025"
+      },
+      {
+        "hearing_date": "14-MAR-25",
+        "list": "Daily List",
+        "sr_no": "15",
+        "cma": "& Ord/Hg of Misc applications and main case",
+        "other_info": "",
+        "part_heard": "",
+        "stage": "For Hearing Of Cases(Priority)",
+        "bench": "Mr. Justice Muhammad Jaffer Raza",
+        "status": "Adjourned/Date by Court",
+        "diary": "Adjourned/Date by Court 17.04.2025"
+      },
+      {
+        "hearing_date": "25-FEB-25",
+        "list": "Daily List",
+        "sr_no": "18",
+        "cma": "& Ord/Hg of Misc applications and main case",
+        "other_info": "",
+        "part_heard": "",
+        "stage": "For Hearing Of Cases(Priority)",
+        "bench": "Mr. Justice Ali Haider 'Ada'",
+        "status": "Next Waiting",
+        "diary": ""
+      },
+      {
+        "hearing_date": "03-FEB-25",
+        "list": "Daily List",
+        "sr_no": "16",
+        "cma": "& Ord/Hg of Misc applications and main case",
+        "other_info": "",
+        "part_heard": "",
+        "stage": "For Hearing Of Cases(Priority)",
+        "bench": "Mr. Justice Ali Haider 'Ada'",
+        "status": "Next Waiting",
+        "diary": ""
+      },
+      {
+        "hearing_date": "22-AUG-23",
+        "list": "Daily List",
+        "sr_no": "16",
+        "cma": "& Ord/Hg of Misc: 219/2023,220/2023,main case",
+        "other_info": "",
+        "part_heard": "",
+        "stage": "For Hearing Of Cases(Priority)",
+        "bench": "Mr. Justice Salahuddin Panhwar",
+        "status": "Notice",
+        "diary": "Notice"
+      },
+      {
+        "hearing_date": "31-MAY-23",
+        "list": "Additional List",
+        "sr_no": "2",
+        "cma": "& Ord/Hg of Misc: 219/2023, 220/2023,main case",
+        "other_info": "",
+        "part_heard": "",
+        "stage": "For Fresh Cases",
+        "bench": "Mr. Justice Mohammad Abdur Rahman",
+        "status": "Notice",
+        "diary": "Notice 22/08/2023"
+      },
+      {
+        "hearing_date": "29-MAY-23",
+        "list": "Additional List",
+        "sr_no": "2",
+        "cma": "& Ord/Hg of Misc: 219/2023,220/2023,main case",
+        "other_info": "",
+        "part_heard": "",
+        "stage": "For Fresh Cases",
+        "bench": "Mr. Justice Mohammad Abdur Rahman",
+        "status": "Adjourned/Date by Court",
+        "diary": "Adjourned/Date by Court 31/05/2023"
+      },
+      {
+        "hearing_date": "08-MAY-23",
+        "list": "Daily List",
+        "sr_no": "9",
+        "cma": "& Ord/Hg of Misc: 219/2023,220/2023,main case",
+        "other_info": "",
+        "part_heard": "",
+        "stage": "For Fresh Cases",
+        "bench": "Mr. Justice Mohammad Abdur Rahman",
+        "status": "Adjourned/Date by Court",
+        "diary": "Adjourned/Date by Court 29.05.23"
+      },
+      {
+        "hearing_date": "26-APR-23",
+        "list": "Daily List",
+        "sr_no": "8",
+        "cma": "& Ord/Hg of Misc: 219/2023,220/2023,main case",
+        "other_info": "",
+        "part_heard": "",
+        "stage": "For Fresh Cases",
+        "bench": "Mr. Justice Mohammad Abdur Rahman",
+        "status": "Adjourned/Date by Court",
+        "diary": "Adjourned/Date by Court 08/05/2023"
+      }
+    ],
+    "advocates": [
+      {
+        "side": "appellant",
+        "advocate_name": "Zafar Jawed",
+        "ledger_no": "ADVO-16764-SBC-KHE",
+        "entry_date": "12-JAN-23"
+      },
+      {
+        "side": "appellant",
+        "advocate_name": "Hasnain Raza",
+        "ledger_no": "ADVO-17372-SBC-KHS",
+        "entry_date": "12-JAN-23"
+      },
+      {
+        "side": "respondent",
+        "advocate_name": "Usman Farooq",
+        "ledger_no": "ADVO-16057-SBC-KHE",
+        "entry_date": "18-NOV-23"
+      },
+      {
+        "side": "respondent",
+        "advocate_name": "Syed Akhtar Hasan",
+        "ledger_no": "ADVO-8177-SBC-KHC",
+        "entry_date": "18-NOV-23"
+      }
+    ],
+    "parties": [
+      {
+        "seq": "1",
+        "party_name": "Abdul Wahid Bhatti"
+      }
+    ],
+    "applications": [
+      {
+        "seq": "1",
+        "appln_no": "220",
+        "appln_year": "2023",
+        "cma_type": "Stay",
+        "applicant_name": "Advocate for Appellant"
+      },
+      {
+        "seq": "2",
+        "appln_no": "219",
+        "appln_year": "2023",
+        "cma_type": "Exemption",
+        "applicant_name": "Advocate for Appellant"
+      },
+      {
+        "seq": "3",
+        "appln_no": "218",
+        "appln_year": "2023",
+        "cma_type": "Urgent",
+        "applicant_name": "Advocate for Appellant"
+      }
+    ],
+    "connected_cases": [],
+    "govt_depts": [],
+    "discharge_history": [
+      {
+        "DATE": "25-AUG-26",
+        "CAUSE OF DISCHARGE": "Due to advocate adjournment",
+        "Remarks": "1. Hasnain Raza FROM 24-AUG-26 TO 26-AUG-26 Without Exception"
+      },
+      {
+        "DATE": "23-FEB-26",
+        "CAUSE OF DISCHARGE": "As per approved policy",
+        "Remarks": ""
+      },
+      {
+        "DATE": "20-OCT-25",
+        "CAUSE OF DISCHARGE": "As per approved policy",
+        "Remarks": ""
+      },
+      {
+        "DATE": "09-OCT-24",
+        "CAUSE OF DISCHARGE": "As per approved policy",
+        "Remarks": ""
+      },
+      {
+        "DATE": "22-MAY-24",
+        "CAUSE OF DISCHARGE": "As per approved policy",
+        "Remarks": ""
+      },
+      {
+        "DATE": "06-MAR-24",
+        "CAUSE OF DISCHARGE": "As per approved policy",
+        "Remarks": ""
+      },
+      {
+        "DATE": "24-OCT-23",
+        "CAUSE OF DISCHARGE": "As per approved policy",
+        "Remarks": "7"
+      }
+    ],
+    "aros_history": []
+  },
+  {
+    "circuit": "khi",
+    "circuit_name": "Karachi",
+    "case_id": 218546,
+    "status": "Disposed of",
+    "remarks": "",
+    "case_no_raw": "Misc Appeal (S) 34/2011 Karachi (AGAINST DECISION OF PEMRA) Connected with : Misc Appeal S- 30/2011 Independent Media Corporation (Pvt) Ltd V/S Federation of Pakistan & Ors",
+    "case_type": "",
+    "bench_flag": "",
+    "case_number": "",
+    "case_year": "",
+    "court_location": "",
+    "nature_of_case": "",
+    "case_title": "Independent Media Corp VS Federation of Pakistan",
+    "party_side_a": "Independent Media Corp",
+    "party_side_b": "Federation of Pakistan",
+    "institution_date": "09-AUG-11",
+    "admit_date": "",
+    "disposal_date": "10-OCT-23 (Disposed Of)",
+    "consigned_date": "18-DEC-23",
+    "stay_grant_date": "",
+    "stay_end_date": "",
+    "last_hearing_date": "Tuesday, October 10, 2023",
+    "last_hearing_list": "Daily List",
+    "last_hearing_sr": "1",
+    "last_hearing_stage": "For Hearing Of Cases",
+    "last_hearing_bench": "Justice Mrs. Kausar Sultana Hussain",
+    "last_hearing_other_info": "Next Waiting",
+    "last_hearing_raw": "Date: Tuesday, October 10, 2023 List: Daily List @ Sr # 1 Stage: For Hearing Of Cases Bench: Justice Mrs. Kausar Sultana Hussain Other Info: Next Waiting",
+    "next_hearing_date": "",
+    "next_hearing_list": "",
+    "next_hearing_sr": "",
+    "next_hearing_stage": "",
+    "next_hearing_bench": "",
+    "next_hearing_other_info": "",
+    "next_hearing_raw": "Date: (not set) List: @ Sr # Stage: Bench: Other Info:",
+    "last_roster_discharged_date": "Tuesday, February 1, 2022",
+    "last_roster_discharge_reason": "As per approved policy",
+    "future_fixation": "",
+    "last_hg_adlreg": "",
+    "next_hg_adlreg": "",
+    "fir_no": "",
+    "fir_year": "",
+    "fir_sections": "",
+    "disposal_sine_die": "10-OCT-23 (Disposed Of)",
+    "disposing_bench": "JUSTICE MRS. KAUSAR SULTANA HUSSAIN",
+    "nature_of_disposal": "Disposed of",
+    "scraped_at": "2026-11-05T10:04:27.087323+00:00",
+    "hearings": [
+      {
+        "hearing_date": "10-OCT-23",
+        "list": "Daily List",
+        "sr_no": "1",
+        "cma": "",
+        "other_info": "",
+        "part_heard": "",
+        "stage": "For Hearing Of Cases",
+        "bench": "Justice Mrs. Kausar Sultana Hussain",
+        "status": "Next Waiting",
+        "diary": ""
+      },
+      {
+        "hearing_date": "27-SEP-23",
+        "list": "Daily List",
+        "sr_no": "1",
+        "cma": "",
+        "other_info": "",
+        "part_heard": "",
+        "stage": "For Hearing Of Cases",
+        "bench": "Justice Mrs. Kausar Sultana Hussain",
+        "status": "Adjourned/Date by Court",
+        "diary": "Adjourned/Date by Court 10.10.2023"
+      },
+      {
+        "hearing_date": "06-SEP-23",
+        "list": "Daily List",
+        "sr_no": "2",
+        "cma": "",
+        "other_info": "",
+        "part_heard": "",
+        "stage": "For Hearing Of Cases",
+        "bench": "Justice Mrs. Kausar Sultana Hussain",
+        "status": "Next Waiting",
+        "diary": ""
+      },
+      {
+        "hearing_date": "28-AUG-23",
+        "list": "Daily List",
+        "sr_no": "2",
+        "cma": "",
+        "other_info": "",
+        "part_heard": "",
+        "stage": "For Hearing Of Cases",
+        "bench": "Justice Mrs. Kausar Sultana Hussain",
+        "status": "Adjourned/Date by Court",
+        "diary": "Adjourned/Date by Court 06.9.2023"
+      },
+      {
+        "hearing_date": "11-APR-22",
+        "list": "Daily List",
+        "sr_no": "1",
+        "cma": "",
+        "other_info": "",
+        "part_heard": "",
+        "stage": "For Hearing Of Cases",
+        "bench": "Justice Mrs. Kausar Sultana Hussain",
+        "status": "Adjourned/Date in Office",
+        "diary": "Adjourned/Date in Office"
+      },
+      {
+        "hearing_date": "11-MAR-21",
+        "list": "Daily List",
+        "sr_no": "2",
+        "cma": "",
+        "other_info": "",
+        "part_heard": "",
+        "stage": "For Hearing Of Cases",
+        "bench": "Justice Mrs. Kausar Sultana Hussain",
+        "status": "Next Waiting",
+        "diary": ""
+      },
+      {
+        "hearing_date": "12-FEB-21",
+        "list": "Daily List",
+        "sr_no": "21",
+        "cma": "",
+        "other_info": "",
+        "part_heard": "",
+        "stage": "For Hearing Of Cases",
+        "bench": "Justice Mrs. Kausar Sultana Hussain",
+        "status": "Adjourned/Date by Court",
+        "diary": "Adjourned/Date by Court 11.00AM"
+      },
+      {
+        "hearing_date": "14-JAN-21",
+        "list": "Daily List",
+        "sr_no": "26",
+        "cma": "",
+        "other_info": "",
+        "part_heard": "",
+        "stage": "For Hearing Of Cases",
+        "bench": "Justice Mrs. Kausar Sultana Hussain",
+        "status": "Next Waiting",
+        "diary": ""
+      },
+      {
+        "hearing_date": "10-DEC-20",
+        "list": "Daily List",
+        "sr_no": "13",
+        "cma": "",
+        "other_info": "",
+        "part_heard": "",
+        "stage": "For Hearing Of Cases",
+        "bench": "Justice Mrs. Kausar Sultana Hussain",
+        "status": "Adjourned/Date by Court",
+        "diary": "Adjourned/Date by Court @ 11:00 a.m"
+      },
+      {
+        "hearing_date": "02-MAR-20",
+        "list": "Daily List",
+        "sr_no": "24",
+        "cma": "",
+        "other_info": "",
+        "part_heard": "",
+        "stage": "For Hearing Of Cases",
+        "bench": "Mr. Justice Nazar Akbar",
+        "status": "Discharged",
+        "diary": ""
+      },
+      {
+        "hearing_date": "27-JAN-20",
+        "list": "Daily List",
+        "sr_no": "20",
+        "cma": "",
+        "other_info": "",
+        "part_heard": "",
+        "stage": "For Hearing Of Cases",
+        "bench": "Mr. Justice Muhammad Shafi Siddiqui",
+        "status": "Adjourned/Date in Office",
+        "diary": "Adjourned/Date in Office"
+      },
+      {
+        "hearing_date": "19-NOV-19",
+        "list": "Daily List",
+        "sr_no": "30",
+        "cma": "",
+        "other_info": "",
+        "part_heard": "",
+        "stage": "For Hearing Of Cases",
+        "bench": "Mr. Justice Salahuddin Panhwar",
+        "status": "Discharged",
+        "diary": "Discharged"
+      },
+      {
+        "hearing_date": "22-OCT-19",
+        "list": "Daily List",
+        "sr_no": "33",
+        "cma": "",
+        "other_info": "",
+        "part_heard": "",
+        "stage": "For Hearing Of Cases",
+        "bench": "Mr. Justice Aziz-Ur-Rehman",
+        "status": "Discharged",
+        "diary": "Discharged"
+      },
+      {
+        "hearing_date": "24-MAY-19",
+        "list": "Daily List",
+        "sr_no": "13",
+        "cma": "",
+        "other_info": "",
+        "part_heard": "",
+        "stage": "For Hearing Of Cases",
+        "bench": "Mr. Justice Nazar Akbar",
+        "status": "Discharged",
+        "diary": ""
+      },
+      {
+        "hearing_date": "26-FEB-19",
+        "list": "Daily List",
+        "sr_no": "35",
+        "cma": "",
+        "other_info": "",
+        "part_heard": "",
+        "stage": "For Hearing Of Cases",
+        "bench": "Mr. Justice Nadeem Akhtar",
+        "status": "Next Waiting",
+        "diary": ""
+      },
+      {
+        "hearing_date": "07-NOV-18",
+        "list": "Daily List",
+        "sr_no": "33",
+        "cma": "",
+        "other_info": "",
+        "part_heard": "",
+        "stage": "For Hearing Of Cases",
+        "bench": "Mr. Justice Nazar Akbar",
+        "status": "Discharged",
+        "diary": ""
+      },
+      {
+        "hearing_date": "07-SEP-18",
+        "list": "Daily List",
+        "sr_no": "25",
+        "cma": "",
+        "other_info": "",
+        "part_heard": "",
+        "stage": "For Hearing Of Cases",
+        "bench": "Mr. Justice Nadeem Akhtar",
+        "status": "Next Waiting",
+        "diary": ""
+      },
+      {
+        "hearing_date": "16-AUG-18",
+        "list": "Daily List",
+        "sr_no": "37",
+        "cma": "",
+        "other_info": "",
+        "part_heard": "",
+        "stage": "For Hearing Of Cases",
+        "bench": "Mr. Justice Yousuf Ali Sayeed",
+        "status": "Adjourned/Date by Court",
+        "diary": "Adjourned/Date by Court"
+      },
+      {
+        "hearing_date": "27-NOV-17",
+        "list": "Daily List",
+        "sr_no": "20",
+        "cma": "",
+        "other_info": "",
+        "part_heard": "",
+        "stage": "For Hearing Of Cases",
+        "bench": "Justice Mrs. Ashraf Jahan",
+        "status": "Adjourned",
+        "diary": "Other than Monday"
+      },
+      {
+        "hearing_date": "07-AUG-17",
+        "list": "Daily List",
+        "sr_no": "18",
+        "cma": "",
+        "other_info": "",
+        "part_heard": "",
+        "stage": "For Hearing Of Cases",
+        "bench": "Mr. Justice Sadiq Hussain Bhatti",
+        "status": "Discharged",
+        "diary": ""
+      },
+      {
+        "hearing_date": "22-MAY-17",
+        "list": "Daily List",
+        "sr_no": "35",
+        "cma": "",
+        "other_info": "",
+        "part_heard": "",
+        "stage": "For Hearing Of Cases",
+        "bench": "Mr. Justice Nadeem Akhtar",
+        "status": "Discharged",
+        "diary": ""
+      },
+      {
+        "hearing_date": "27-MAR-17",
+        "list": "Daily List",
+        "sr_no": "41",
+        "cma": "",
+        "other_info": "",
+        "part_heard": "",
+        "stage": "For Hearing Of Cases",
+        "bench": "Mr. Justice Aftab Ahmed Gorar",
+        "status": "Adjourned",
+        "diary": ""
+      },
+      {
+        "hearing_date": "03-FEB-17",
+        "list": "Daily List",
+        "sr_no": "35",
+        "cma": "",
+        "other_info": "",
+        "part_heard": "",
+        "stage": "For Hearing Of Cases",
+        "bench": "Mr. Justice Abdul Rasool Memon",
+        "status": "Next Waiting",
+        "diary": ""
+      },
+      {
+        "hearing_date": "16-DEC-16",
+        "list": "Daily List",
+        "sr_no": "32",
+        "cma": "",
+        "other_info": "",
+        "part_heard": "",
+        "stage": "For Hearing Of Cases",
+        "bench": "Mr. Justice Shahnawaz Tariq",
+        "status": "Discharged",
+        "diary": ""
+      },
+      {
+        "hearing_date": "13-MAY-16",
+        "list": "Daily List",
+        "sr_no": "38",
+        "cma": "",
+        "other_info": "",
+        "part_heard": "",
+        "stage": "For Hearing Of Cases",
+        "bench": "Mr. Justice Muhammad Iqbal Kalhoro",
+        "status": "Discharged",
+        "diary": ""
+      }
+    ],
+    "advocates": [
+      {
+        "side": "appellant",
+        "advocate_name": "Qutab-ud-Din Saim",
+        "ledger_no": "ADVO-9414-SBC-KHI",
+        "entry_date": "10-MAY-16"
+      },
+      {
+        "side": "appellant",
+        "advocate_name": "Jam Asif Mehmood Lar",
+        "ledger_no": "ADVO-10595-SBC-KHI",
+        "entry_date": "10-MAY-16"
+      },
+      {
+        "side": "respondent",
+        "advocate_name": "Kashif Hanif",
+        "ledger_no": "ADVO-8551-SBC-KHI",
+        "entry_date": "10-MAY-16"
+      }
+    ],
+    "parties": [],
+    "applications": [],
+    "connected_cases": [],
+    "govt_depts": [],
+    "discharge_history": [
+      {
+        "DATE": "01-FEB-22",
+        "CAUSE OF DISCHARGE": "As per approved policy",
+        "Remarks": ""
+      },
+      {
+        "DATE": "14-DEC-21",
+        "CAUSE OF DISCHARGE": "As per approved policy",
+        "Remarks": ""
+      },
+      {
+        "DATE": "09-NOV-21",
+        "CAUSE OF DISCHARGE": "As per approved policy",
+        "Remarks": ""
+      },
+      {
+        "DATE": "31-AUG-21",
+        "CAUSE OF DISCHARGE": "As per approved policy",
+        "Remarks": ""
+      },
+      {
+        "DATE": "10-NOV-20",
+        "CAUSE OF DISCHARGE": "Due to advocate adjournment",
+        "Remarks": ""
+      },
+      {
+        "DATE": "09-OCT-20",
+        "CAUSE OF DISCHARGE": "Due to advocate adjournment",
+        "Remarks": ""
+      },
+      {
+        "DATE": "09-SEP-20",
+        "CAUSE OF DISCHARGE": "Due to advocate adjournment",
+        "Remarks": ""
+      },
+      {
+        "DATE": "08-MAY-20",
+        "CAUSE OF DISCHARGE": "Due to COVID-19",
+        "Remarks": ""
+      },
+      {
+        "DATE": "08-APR-20",
+        "CAUSE OF DISCHARGE": "Due to COVID-19",
+        "Remarks": ""
+      }
+    ],
+    "aros_history": []
+  }
+]

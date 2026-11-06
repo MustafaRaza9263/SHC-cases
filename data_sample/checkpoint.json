@@ -1,0 +1,38 @@
+{
+  "circuits": {
+    "khi": {
+      "last_completed_id": 372276,
+      "completed_ids": [
+        218546,
+        372276
+      ],
+      "missing_ids": [],
+      "errors": {}
+    },
+    "hyd": {
+      "last_completed_id": 0,
+      "completed_ids": [],
+      "missing_ids": [],
+      "errors": {}
+    },
+    "suk": {
+      "last_completed_id": 0,
+      "completed_ids": [],
+      "missing_ids": [],
+      "errors": {}
+    },
+    "lar": {
+      "last_completed_id": 0,
+      "completed_ids": [],
+      "missing_ids": [],
+      "errors": {}
+    },
+    "mpkhas": {
+      "last_completed_id": 0,
+      "completed_ids": [],
+      "missing_ids": [],
+      "errors": {}
+    }
+  },
+  "updated_at": "2026-11-05T10:04:50.281233+00:00"
+}

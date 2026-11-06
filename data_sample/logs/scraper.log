@@ -1,0 +1,24 @@
+2026-11-05 15:03:52 | INFO    | SAMPLE mode: circuits=['khi'] ids=[372276, 218546] delay=2.5s
+2026-11-05 15:03:52 | INFO    | === Circuit khi (Karachi) | 2 ids ===
+2026-11-05 15:03:52 | INFO    | Fetching profile khi/372276
+2026-11-05 15:04:00 | DEBUG   | Fetching tab connected    khi/372276
+2026-11-05 15:04:03 | DEBUG   | Fetching tab hearings     khi/372276
+2026-11-05 15:04:06 | DEBUG   | Fetching tab parties      khi/372276
+2026-11-05 15:04:08 | DEBUG   | Fetching tab applications khi/372276
+2026-11-05 15:04:11 | DEBUG   | Fetching tab advocates    khi/372276
+2026-11-05 15:04:14 | DEBUG   | Fetching tab discharge    khi/372276
+2026-11-05 15:04:17 | DEBUG   | Fetching tab aros         khi/372276
+2026-11-05 15:04:20 | DEBUG   | Fetching tab govt_depts   khi/372276
+2026-11-05 15:04:23 | INFO    | OK khi/372276 | Misc Appeal (S) 2/2023 Karachi (DAMAGES FOR DEFAMATION) | hearings=12 advocates=4
+2026-11-05 15:04:23 | INFO    | Fetching profile khi/218546
+2026-11-05 15:04:27 | DEBUG   | Fetching tab connected    khi/218546
+2026-11-05 15:04:29 | DEBUG   | Fetching tab hearings     khi/218546
+2026-11-05 15:04:32 | DEBUG   | Fetching tab parties      khi/218546
+2026-11-05 15:04:35 | DEBUG   | Fetching tab applications khi/218546
+2026-11-05 15:04:38 | DEBUG   | Fetching tab advocates    khi/218546
+2026-11-05 15:04:41 | DEBUG   | Fetching tab discharge    khi/218546
+2026-11-05 15:04:44 | DEBUG   | Fetching tab aros         khi/218546
+2026-11-05 15:04:47 | DEBUG   | Fetching tab govt_depts   khi/218546
+2026-11-05 15:04:50 | INFO    | OK khi/218546 | Misc Appeal (S) 34/2011 Karachi (AGAINST DECISION OF PEMRA) Connected with : Misc Appeal S- 30/2011 Independent Media Corporation (Pvt) Ltd V/S Federation of Pakistan & Ors | hearings=25 advocates=3
+2026-11-05 15:04:50 | INFO    | Exported 2 cases -> d:\scraper\data_sample\cases.json and d:\scraper\data_sample\cases.xlsx
+2026-11-05 15:04:50 | INFO    | Done. saved=2 elapsed=58.0s json=d:\scraper\data_sample\cases.json excel=d:\scraper\data_sample\cases.xlsx
