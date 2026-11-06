@@ -676,7 +676,16 @@ class SHCScraper:
         tmp.replace(self.checkpoint_path)
 
     def already_done(self, circuit: str, case_id: int) -> bool:
-        done = set(self.checkpoint["circuits"][circuit].get("completed_ids", []))
+        """Sequential resume: anything <= last_completed_id is done.
+
+        completed_ids is only a recent ring buffer (size-capped). Early IDs fall out
+        of that list, so resume must key off last_completed_id, not the buffer alone.
+        """
+        cstate = self.checkpoint["circuits"][circuit]
+        last = int(cstate.get("last_completed_id") or 0)
+        if case_id <= last:
+            return True
+        done = set(cstate.get("completed_ids", []))
         return case_id in done
 
     def mark_done(self, circuit: str, case_id: int, missing: bool = False) -> None:
@@ -684,8 +693,7 @@ class SHCScraper:
         cstate["last_completed_id"] = max(int(cstate.get("last_completed_id") or 0), case_id)
         ids = set(cstate.get("completed_ids", []))
         ids.add(case_id)
-        # keep checkpoint file from growing forever: store only recent window + last id
-        # Full resume uses jsonl; completed_ids is a fast skip set for current run.
+        # Recent window only (debug / non-sequential retries). Resume uses last_completed_id.
         cstate["completed_ids"] = sorted(ids)[-5000:]
         if missing:
             missing_ids = set(cstate.get("missing_ids", []))
@@ -697,7 +705,8 @@ class SHCScraper:
         cstate = self.checkpoint["circuits"][circuit]
         errors = cstate.setdefault("errors", {})
         errors[str(case_id)] = message[:500]
-        self.save_checkpoint()
+        # Still advance last_completed_id so sequential resume does not restart earlier.
+        self.mark_done(circuit, case_id, missing=True)
 
     def append_case(self, case: dict[str, Any]) -> None:
         with self.jsonl_path.open("a", encoding="utf-8") as fh:
@@ -773,10 +782,21 @@ class SHCScraper:
 
     def scrape_ids(self, circuit: str, case_ids: Iterable[int]) -> int:
         saved = 0
+        skipped = 0
+        last = int(self.checkpoint["circuits"][circuit].get("last_completed_id") or 0)
+        if last:
+            log.info(
+                "Checkpoint %s last_completed_id=%s — will resume after that",
+                circuit,
+                last,
+            )
         for case_id in case_ids:
             if self.already_done(circuit, case_id):
-                log.info("Skip already-done %s/%s", circuit, case_id)
+                skipped += 1
                 continue
+            if skipped:
+                log.info("Skipped %s already-done ids on %s; now fetching %s", skipped, circuit, case_id)
+                skipped = 0
             try:
                 case = self.fetch_case(circuit, case_id)
                 if case is None:
@@ -788,6 +808,8 @@ class SHCScraper:
             except Exception as exc:  # noqa: BLE001 - keep run alive
                 log.exception("Failed %s/%s: %s", circuit, case_id, exc)
                 self.mark_error(circuit, case_id, str(exc))
+        if skipped:
+            log.info("Skipped %s already-done ids on %s (nothing left to fetch in range)", skipped, circuit)
         return saved
 
     def export(self) -> tuple[Path, Path]:
